@@ -1,0 +1,69 @@
+.head {
+    background-color: crimson;
+    display: inline-block;
+    width: 920px;
+    padding: 10px;
+    color: rgba(240, 248, 255, 0.822);
+    border-radius: 25px;
+    margin: 15px;
+    height: 70px;
+    font-size: 20px;
+}
+
+.home {
+    background-color: aquamarine;
+    border: 2px;
+    display: inline-block;
+    text-decoration: underline;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.7;
+    font-size: 17px;
+    text-indent: -3px;
+    color: rgb(6, 157, 177);
+    vertical-align: top;
+    width: 206px;
+    text-align: left;
+}
+
+.body {
+    background-color: rgb(6, 20, 13);
+    color: rgba(240, 248, 255, 0.774);
+    border: 2px;
+    padding: 10px;
+    display: inline-block;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 25px;
+    text-align: justify;
+    margin: 15px;
+    width: 660px;
+}
+
+.footer {
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 25px;
+    width: 920px;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+    margin: 15px
+}
+
+.fondo {
+    background-color: rgb(40, 40, 95);
+    margin: 3px;
+    width: 970px;
+    color: rgb(235, 238, 240)
+}
+
+.color-acento {
+    color: aqua;
+}
+
+.color-destacado{
+    color: darkslateblue;
+}
